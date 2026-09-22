@@ -1,0 +1,6644 @@
+{
+  "format": "pat-mi",
+  "version": 1,
+  "exportedAt": "2026-09-12T04:00:00.000Z",
+  "data": {
+    "tasks": [
+      {
+        "id": "demo-task-0001",
+        "title": "梳理现有页面与体验问题",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-17",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 0,
+        "tracking": true,
+        "baselineStart": "2026-08-17",
+        "baselineEnd": "2026-08-20",
+        "startedOn": "2026-08-17",
+        "completedOn": "2026-08-20",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-08-17",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-18",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-08-19",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-08-20",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0002",
+        "title": "用户访谈与需求归纳",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-22",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 1,
+        "tracking": true,
+        "baselineStart": "2026-08-22",
+        "baselineEnd": "2026-08-25",
+        "startedOn": "2026-08-22",
+        "completedOn": "2026-08-25",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-08-22",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-23",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-08-24",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-08-25",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0003",
+        "title": "信息架构与导航方案",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-27",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 2,
+        "tracking": true,
+        "baselineStart": "2026-08-27",
+        "baselineEnd": "2026-08-30",
+        "startedOn": "2026-08-27",
+        "completedOn": "2026-08-30",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-08-27",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-28",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-08-29",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-08-30",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0004",
+        "title": "首页低保真原型",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "high",
+        "date": "2026-09-01",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 3,
+        "tracking": true,
+        "baselineStart": "2026-09-01",
+        "baselineEnd": "2026-09-04",
+        "startedOn": "2026-09-01",
+        "completedOn": "2026-09-04",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-01",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-02",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-09-03",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-09-04",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0005",
+        "title": "核心页面视觉设计",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-06",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 4,
+        "tracking": true,
+        "baselineStart": "2026-09-06",
+        "baselineEnd": "2026-09-09",
+        "startedOn": "2026-09-06",
+        "completedOn": "2026-09-09",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-06",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-07",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-09-08",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-09-09",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0006",
+        "title": "响应式布局与组件交付",
+        "project": "demo-project-0",
+        "status": "doing",
+        "priority": "medium",
+        "date": "2026-09-11",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 5,
+        "tracking": true,
+        "baselineStart": "2026-09-11",
+        "baselineEnd": "2026-09-14",
+        "startedOn": "2026-09-11",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-11",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-12",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0007",
+        "title": "开发联调与体验走查",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-16",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 6,
+        "tracking": true,
+        "baselineStart": "2026-09-16",
+        "baselineEnd": "2026-09-19",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0008",
+        "title": "上线验收与数据观察",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "high",
+        "date": "2026-09-21",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 7,
+        "tracking": true,
+        "baselineStart": "2026-09-21",
+        "baselineEnd": "2026-09-24",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0009",
+        "title": "发布主题与目标确认",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-01",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 8,
+        "tracking": true,
+        "baselineStart": "2026-09-01",
+        "baselineEnd": "2026-09-04",
+        "startedOn": "2026-09-01",
+        "completedOn": "2026-09-04",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-01",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-02",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-09-03",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-09-04",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0010",
+        "title": "参考素材与视觉方向",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-07",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 9,
+        "tracking": true,
+        "baselineStart": "2026-09-07",
+        "baselineEnd": "2026-09-10",
+        "startedOn": "2026-09-07",
+        "completedOn": "2026-09-10",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-07",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-08",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-09-09",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-09-10",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0011",
+        "title": "主视觉概念提案",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-13",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 10,
+        "tracking": true,
+        "baselineStart": "2026-09-13",
+        "baselineEnd": "2026-09-16",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0012",
+        "title": "活动页面设计",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "high",
+        "date": "2026-09-19",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 11,
+        "tracking": true,
+        "baselineStart": "2026-09-19",
+        "baselineEnd": "2026-09-22",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0013",
+        "title": "社交媒体系列物料",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-25",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 12,
+        "tracking": true,
+        "baselineStart": "2026-09-25",
+        "baselineEnd": "2026-09-28",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0014",
+        "title": "上线前内容与链接检查",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-01",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 13,
+        "tracking": true,
+        "baselineStart": "2026-10-01",
+        "baselineEnd": "2026-10-04",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0015",
+        "title": "正式发布与反馈收集",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-07",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 14,
+        "tracking": true,
+        "baselineStart": "2026-10-07",
+        "baselineEnd": "2026-10-10",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0016",
+        "title": "发布效果复盘",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "high",
+        "date": "2026-10-13",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 15,
+        "tracking": true,
+        "baselineStart": "2026-10-13",
+        "baselineEnd": "2026-10-16",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0017",
+        "title": "筛选代表作品与素材",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-24",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 16,
+        "tracking": true,
+        "baselineStart": "2026-08-24",
+        "baselineEnd": "2026-08-27",
+        "startedOn": "2026-08-24",
+        "completedOn": "2026-08-27",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-08-24",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-25",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-08-26",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-08-27",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0018",
+        "title": "案例一：问题与研究过程",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-29",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 17,
+        "tracking": true,
+        "baselineStart": "2026-08-29",
+        "baselineEnd": "2026-09-01",
+        "startedOn": "2026-08-29",
+        "completedOn": "2026-09-01",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-08-29",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-30",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-08-31",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-09-01",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0019",
+        "title": "案例一：方案与设计细节",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-03",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 18,
+        "tracking": true,
+        "baselineStart": "2026-09-03",
+        "baselineEnd": "2026-09-06",
+        "startedOn": "2026-09-03",
+        "completedOn": "2026-09-06",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-03",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-04",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-09-05",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-09-06",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0020",
+        "title": "案例二：交互流程整理",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "high",
+        "date": "2026-09-08",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 19,
+        "tracking": true,
+        "baselineStart": "2026-09-08",
+        "baselineEnd": "2026-09-11",
+        "startedOn": "2026-09-08",
+        "completedOn": "2026-09-11",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-08",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-09",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-09-10",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-09-11",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0021",
+        "title": "案例二：结果与反思",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-13",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 20,
+        "tracking": true,
+        "baselineStart": "2026-09-13",
+        "baselineEnd": "2026-09-16",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0022",
+        "title": "个人介绍与封面设计",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-18",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 21,
+        "tracking": true,
+        "baselineStart": "2026-09-18",
+        "baselineEnd": "2026-09-21",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0023",
+        "title": "作品集网站排版",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-23",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 22,
+        "tracking": true,
+        "baselineStart": "2026-09-23",
+        "baselineEnd": "2026-09-26",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0024",
+        "title": "邀请同行反馈并修改",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "high",
+        "date": "2026-09-28",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 23,
+        "tracking": true,
+        "baselineStart": "2026-09-28",
+        "baselineEnd": "2026-10-01",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0025",
+        "title": "搭建练习项目与样式规范",
+        "project": "demo-project-5",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-17",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-3"
+        ],
+        "position": 24,
+        "tracking": true,
+        "baselineStart": "2026-08-17",
+        "baselineEnd": "2026-08-20",
+        "startedOn": "2026-08-17",
+        "completedOn": "2026-08-20",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-08-17",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-18",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-08-19",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-08-20",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0026",
+        "title": "按钮与表单组件练习",
+        "project": "demo-project-5",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-22",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-3"
+        ],
+        "position": 25,
+        "tracking": true,
+        "baselineStart": "2026-08-22",
+        "baselineEnd": "2026-08-25",
+        "startedOn": "2026-08-22",
+        "completedOn": "2026-08-25",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-08-22",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-23",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-08-24",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-08-25",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0027",
+        "title": "下拉菜单键盘交互",
+        "project": "demo-project-5",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-27",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-3"
+        ],
+        "position": 26,
+        "tracking": true,
+        "baselineStart": "2026-08-27",
+        "baselineEnd": "2026-08-30",
+        "startedOn": "2026-08-27",
+        "completedOn": "2026-08-30",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-08-27",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-28",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-08-29",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-08-30",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0028",
+        "title": "日历网格与日期计算",
+        "project": "demo-project-5",
+        "status": "done",
+        "priority": "high",
+        "date": "2026-09-01",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-3"
+        ],
+        "position": 27,
+        "tracking": true,
+        "baselineStart": "2026-09-01",
+        "baselineEnd": "2026-09-04",
+        "startedOn": "2026-09-01",
+        "completedOn": "2026-09-04",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-01",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-02",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-09-03",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-09-04",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0029",
+        "title": "拖拽排序与状态反馈",
+        "project": "demo-project-5",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-06",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-3"
+        ],
+        "position": 28,
+        "tracking": true,
+        "baselineStart": "2026-09-06",
+        "baselineEnd": "2026-09-09",
+        "startedOn": "2026-09-06",
+        "completedOn": "2026-09-09",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-06",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-07",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          },
+          {
+            "date": "2026-09-08",
+            "note": "根据反馈完善细节",
+            "minutes": 120
+          },
+          {
+            "date": "2026-09-09",
+            "note": "整理交付结果",
+            "minutes": 60
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0030",
+        "title": "弹窗焦点管理",
+        "project": "demo-project-5",
+        "status": "doing",
+        "priority": "medium",
+        "date": "2026-09-11",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-3"
+        ],
+        "position": 29,
+        "tracking": true,
+        "baselineStart": "2026-09-11",
+        "baselineEnd": "2026-09-14",
+        "startedOn": "2026-09-11",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-11",
+            "note": "整理资料并明确方向",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-12",
+            "note": "完成第一版并记录问题",
+            "minutes": 90
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0031",
+        "title": "移动端布局适配",
+        "project": "demo-project-5",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-16",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-3"
+        ],
+        "position": 30,
+        "tracking": true,
+        "baselineStart": "2026-09-16",
+        "baselineEnd": "2026-09-19",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0032",
+        "title": "整理组件文档与示例",
+        "project": "demo-project-5",
+        "status": "todo",
+        "priority": "high",
+        "date": "2026-09-21",
+        "time": "",
+        "duration": 5760,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-3"
+        ],
+        "position": 31,
+        "tracking": true,
+        "baselineStart": "2026-09-21",
+        "baselineEnd": "2026-09-24",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0033",
+        "title": "本周目标与团队同步",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-17",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 32,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-17",
+        "completedOn": "2026-08-17",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0034",
+        "title": "官网文案与页面打磨",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-17",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 33,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-17",
+        "completedOn": "2026-08-17",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0035",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-17",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 34,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-17",
+        "completedOn": "2026-08-17",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0036",
+        "title": "交互方案集中设计",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-18",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 35,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-18",
+        "completedOn": "2026-08-18",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0037",
+        "title": "品牌物料设计",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-18",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 36,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-18",
+        "completedOn": "2026-08-18",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0038",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-18",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 37,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-18",
+        "completedOn": "2026-08-18",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0039",
+        "title": "关键页面开发联调",
+        "project": "demo-project-5",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-19",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 38,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-19",
+        "completedOn": "2026-08-19",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0040",
+        "title": "作品集案例整理",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-19",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 39,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-19",
+        "completedOn": "2026-08-19",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0041",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-19",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 40,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-19",
+        "completedOn": "2026-08-19",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0042",
+        "title": "设计细节走查",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-20",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 41,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-20",
+        "completedOn": "2026-08-20",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0043",
+        "title": "发布内容撰写",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-20",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 42,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-20",
+        "completedOn": "2026-08-20",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0044",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-20",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 43,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-20",
+        "completedOn": "2026-08-20",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0045",
+        "title": "阶段成果与下周计划",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-21",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 44,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-21",
+        "completedOn": "2026-08-21",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0046",
+        "title": "学习笔记与周复盘",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-21",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 45,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-21",
+        "completedOn": "2026-08-21",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0047",
+        "title": "周末长距离轻松跑",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-22",
+        "time": "08:00",
+        "duration": 75,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 46,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-22",
+        "completedOn": "2026-08-22",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0048",
+        "title": "城市漫步与展览观察",
+        "project": "demo-project-9",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-22",
+        "time": "14:30",
+        "duration": 120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-8",
+          "demo-label-11"
+        ],
+        "position": 47,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-22",
+        "completedOn": "2026-08-22",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0049",
+        "title": "居家整理与下周准备",
+        "project": "demo-project-7",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-23",
+        "time": "16:00",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 48,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-23",
+        "completedOn": "2026-08-23",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0050",
+        "title": "本周目标与团队同步",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-24",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 49,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-24",
+        "completedOn": "2026-08-24",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0051",
+        "title": "官网文案与页面打磨",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-24",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 50,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-24",
+        "completedOn": "2026-08-24",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0052",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-24",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 51,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-24",
+        "completedOn": "2026-08-24",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0053",
+        "title": "交互方案集中设计",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-25",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 52,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-25",
+        "completedOn": "2026-08-25",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0054",
+        "title": "品牌物料设计",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-25",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 53,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-25",
+        "completedOn": "2026-08-25",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0055",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-25",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 54,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-25",
+        "completedOn": "2026-08-25",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0056",
+        "title": "关键页面开发联调",
+        "project": "demo-project-5",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-26",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 55,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-26",
+        "completedOn": "2026-08-26",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0057",
+        "title": "作品集案例整理",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-26",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 56,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-26",
+        "completedOn": "2026-08-26",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0058",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-26",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 57,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-26",
+        "completedOn": "2026-08-26",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0059",
+        "title": "设计细节走查",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-27",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 58,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-27",
+        "completedOn": "2026-08-27",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0060",
+        "title": "发布内容撰写",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-27",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 59,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-27",
+        "completedOn": "2026-08-27",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0061",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-27",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 60,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-27",
+        "completedOn": "2026-08-27",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0062",
+        "title": "阶段成果与下周计划",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-28",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 61,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-28",
+        "completedOn": "2026-08-28",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0063",
+        "title": "学习笔记与周复盘",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-28",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 62,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-28",
+        "completedOn": "2026-08-28",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0064",
+        "title": "周末长距离轻松跑",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-29",
+        "time": "08:00",
+        "duration": 75,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 63,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-29",
+        "completedOn": "2026-08-29",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0065",
+        "title": "城市漫步与展览观察",
+        "project": "demo-project-9",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-29",
+        "time": "14:30",
+        "duration": 120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-8",
+          "demo-label-11"
+        ],
+        "position": 64,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-29",
+        "completedOn": "2026-08-29",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0066",
+        "title": "居家整理与下周准备",
+        "project": "demo-project-7",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-30",
+        "time": "16:00",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 65,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-30",
+        "completedOn": "2026-08-30",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0067",
+        "title": "本周目标与团队同步",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-31",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 66,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-31",
+        "completedOn": "2026-08-31",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0068",
+        "title": "官网文案与页面打磨",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-31",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 67,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-31",
+        "completedOn": "2026-08-31",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0069",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-08-31",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 68,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-31",
+        "completedOn": "2026-08-31",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0070",
+        "title": "交互方案集中设计",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-01",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 69,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-01",
+        "completedOn": "2026-09-01",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0071",
+        "title": "品牌物料设计",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-01",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 70,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-01",
+        "completedOn": "2026-09-01",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0072",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-01",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 71,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-01",
+        "completedOn": "2026-09-01",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0073",
+        "title": "关键页面开发联调",
+        "project": "demo-project-5",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-02",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 72,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-02",
+        "completedOn": "2026-09-02",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0074",
+        "title": "作品集案例整理",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-02",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 73,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-02",
+        "completedOn": "2026-09-02",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0075",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-02",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 74,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-02",
+        "completedOn": "2026-09-02",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0076",
+        "title": "设计细节走查",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-03",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 75,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-03",
+        "completedOn": "2026-09-03",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0077",
+        "title": "发布内容撰写",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-03",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 76,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-03",
+        "completedOn": "2026-09-03",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0078",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-03",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 77,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-03",
+        "completedOn": "2026-09-03",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0079",
+        "title": "阶段成果与下周计划",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-04",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 78,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-04",
+        "completedOn": "2026-09-04",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0080",
+        "title": "学习笔记与周复盘",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-04",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 79,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-04",
+        "completedOn": "2026-09-04",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0081",
+        "title": "周末长距离轻松跑",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-05",
+        "time": "08:00",
+        "duration": 75,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 80,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-05",
+        "completedOn": "2026-09-05",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0082",
+        "title": "城市漫步与展览观察",
+        "project": "demo-project-9",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-05",
+        "time": "14:30",
+        "duration": 120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-8",
+          "demo-label-11"
+        ],
+        "position": 81,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-05",
+        "completedOn": "2026-09-05",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0083",
+        "title": "居家整理与下周准备",
+        "project": "demo-project-7",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-06",
+        "time": "16:00",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 82,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-06",
+        "completedOn": "2026-09-06",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0084",
+        "title": "本周目标与团队同步",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-07",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 83,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-07",
+        "completedOn": "2026-09-07",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0085",
+        "title": "官网文案与页面打磨",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-07",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 84,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-07",
+        "completedOn": "2026-09-07",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0086",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-07",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 85,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-07",
+        "completedOn": "2026-09-07",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0087",
+        "title": "交互方案集中设计",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-08",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 86,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-08",
+        "completedOn": "2026-09-08",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0088",
+        "title": "品牌物料设计",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-08",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 87,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-08",
+        "completedOn": "2026-09-08",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0089",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-08",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 88,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-08",
+        "completedOn": "2026-09-08",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0090",
+        "title": "关键页面开发联调",
+        "project": "demo-project-5",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-09",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 89,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-09",
+        "completedOn": "2026-09-09",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0091",
+        "title": "作品集案例整理",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-09",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 90,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-09",
+        "completedOn": "2026-09-09",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0092",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-09",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 91,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-09",
+        "completedOn": "2026-09-09",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0093",
+        "title": "设计细节走查",
+        "project": "demo-project-2",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-10",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 92,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-10",
+        "completedOn": "2026-09-10",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0094",
+        "title": "发布内容撰写",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-10",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 93,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-10",
+        "completedOn": "2026-09-10",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0095",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "done",
+        "priority": "low",
+        "date": "2026-09-10",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 94,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-10",
+        "completedOn": "2026-09-10",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0096",
+        "title": "阶段成果与下周计划",
+        "project": "demo-project-1",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-11",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 95,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-11",
+        "completedOn": "2026-09-11",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0097",
+        "title": "学习笔记与周复盘",
+        "project": "demo-project-4",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-11",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 96,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-11",
+        "completedOn": "2026-09-11",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0098",
+        "title": "周末长距离轻松跑",
+        "project": "demo-project-6",
+        "status": "doing",
+        "priority": "low",
+        "date": "2026-09-12",
+        "time": "08:00",
+        "duration": 75,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 97,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-12",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0099",
+        "title": "城市漫步与展览观察",
+        "project": "demo-project-9",
+        "status": "doing",
+        "priority": "low",
+        "date": "2026-09-12",
+        "time": "14:30",
+        "duration": 120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-8",
+          "demo-label-11"
+        ],
+        "position": 98,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-12",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0100",
+        "title": "居家整理与下周准备",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-13",
+        "time": "16:00",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 99,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0101",
+        "title": "本周目标与团队同步",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-14",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 100,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0102",
+        "title": "官网文案与页面打磨",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-14",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 101,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0103",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-14",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 102,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0104",
+        "title": "交互方案集中设计",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-15",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 103,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0105",
+        "title": "品牌物料设计",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-15",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 104,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0106",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-15",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 105,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0107",
+        "title": "关键页面开发联调",
+        "project": "demo-project-5",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-16",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 106,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0108",
+        "title": "作品集案例整理",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-16",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 107,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0109",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-16",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 108,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0110",
+        "title": "设计细节走查",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-17",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 109,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0111",
+        "title": "发布内容撰写",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-17",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 110,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0112",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-17",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 111,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0113",
+        "title": "阶段成果与下周计划",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-18",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 112,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0114",
+        "title": "学习笔记与周复盘",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-18",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 113,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0115",
+        "title": "周末长距离轻松跑",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-19",
+        "time": "08:00",
+        "duration": 75,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 114,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0116",
+        "title": "城市漫步与展览观察",
+        "project": "demo-project-9",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-19",
+        "time": "14:30",
+        "duration": 120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-8",
+          "demo-label-11"
+        ],
+        "position": 115,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0117",
+        "title": "居家整理与下周准备",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-20",
+        "time": "16:00",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 116,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0118",
+        "title": "本周目标与团队同步",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-21",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 117,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0119",
+        "title": "官网文案与页面打磨",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-21",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 118,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0120",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-21",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 119,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0121",
+        "title": "交互方案集中设计",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-22",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 120,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0122",
+        "title": "品牌物料设计",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-22",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 121,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0123",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-22",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 122,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0124",
+        "title": "关键页面开发联调",
+        "project": "demo-project-5",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-23",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 123,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0125",
+        "title": "作品集案例整理",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-23",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 124,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0126",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-23",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 125,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0127",
+        "title": "设计细节走查",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-24",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 126,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0128",
+        "title": "发布内容撰写",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-24",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 127,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0129",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-24",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 128,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0130",
+        "title": "阶段成果与下周计划",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-25",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 129,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0131",
+        "title": "学习笔记与周复盘",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-25",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 130,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0132",
+        "title": "周末长距离轻松跑",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-26",
+        "time": "08:00",
+        "duration": 75,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 131,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0133",
+        "title": "城市漫步与展览观察",
+        "project": "demo-project-9",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-26",
+        "time": "14:30",
+        "duration": 120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-8",
+          "demo-label-11"
+        ],
+        "position": 132,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0134",
+        "title": "居家整理与下周准备",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-27",
+        "time": "16:00",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 133,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0135",
+        "title": "本周目标与团队同步",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-28",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 134,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0136",
+        "title": "官网文案与页面打磨",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-28",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 135,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0137",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-28",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 136,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0138",
+        "title": "交互方案集中设计",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-29",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 137,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0139",
+        "title": "品牌物料设计",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-29",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 138,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0140",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-29",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 139,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0141",
+        "title": "关键页面开发联调",
+        "project": "demo-project-5",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-30",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 140,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0142",
+        "title": "作品集案例整理",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-30",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 141,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0143",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-09-30",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 142,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0144",
+        "title": "设计细节走查",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-01",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 143,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0145",
+        "title": "发布内容撰写",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-01",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 144,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0146",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-01",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 145,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0147",
+        "title": "阶段成果与下周计划",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-02",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 146,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0148",
+        "title": "学习笔记与周复盘",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-02",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 147,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0149",
+        "title": "周末长距离轻松跑",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-03",
+        "time": "08:00",
+        "duration": 75,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 148,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0150",
+        "title": "城市漫步与展览观察",
+        "project": "demo-project-9",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-03",
+        "time": "14:30",
+        "duration": 120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-8",
+          "demo-label-11"
+        ],
+        "position": 149,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0151",
+        "title": "居家整理与下周准备",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-04",
+        "time": "16:00",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 150,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0152",
+        "title": "本周目标与团队同步",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-05",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 151,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0153",
+        "title": "官网文案与页面打磨",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-05",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 152,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0154",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-05",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 153,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0155",
+        "title": "交互方案集中设计",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-06",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 154,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0156",
+        "title": "品牌物料设计",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-06",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 155,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0157",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-06",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 156,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0158",
+        "title": "关键页面开发联调",
+        "project": "demo-project-5",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-07",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 157,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0159",
+        "title": "作品集案例整理",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-07",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 158,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0160",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-07",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 159,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0161",
+        "title": "设计细节走查",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-08",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 160,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0162",
+        "title": "发布内容撰写",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-08",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 161,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0163",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-08",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 162,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0164",
+        "title": "阶段成果与下周计划",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-09",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 163,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0165",
+        "title": "学习笔记与周复盘",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-09",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 164,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0166",
+        "title": "周末长距离轻松跑",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-10",
+        "time": "08:00",
+        "duration": 75,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 165,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0167",
+        "title": "城市漫步与展览观察",
+        "project": "demo-project-9",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-10",
+        "time": "14:30",
+        "duration": 120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-8",
+          "demo-label-11"
+        ],
+        "position": 166,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0168",
+        "title": "居家整理与下周准备",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-11",
+        "time": "16:00",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 167,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0169",
+        "title": "本周目标与团队同步",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-12",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 168,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0170",
+        "title": "官网文案与页面打磨",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-12",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 169,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0171",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-12",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 170,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0172",
+        "title": "交互方案集中设计",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-13",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 171,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0173",
+        "title": "品牌物料设计",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-13",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 172,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0174",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-13",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 173,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0175",
+        "title": "关键页面开发联调",
+        "project": "demo-project-5",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-14",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 174,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0176",
+        "title": "作品集案例整理",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-14",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-2"
+        ],
+        "position": 175,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0177",
+        "title": "晚间阅读与摘录",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-14",
+        "time": "20:30",
+        "duration": 40,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 176,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0178",
+        "title": "设计细节走查",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-15",
+        "time": "09:30",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 177,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0179",
+        "title": "发布内容撰写",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-15",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 178,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0180",
+        "title": "轻松跑与拉伸",
+        "project": "demo-project-6",
+        "status": "todo",
+        "priority": "low",
+        "date": "2026-10-15",
+        "time": "18:30",
+        "duration": 45,
+        "notes": "按当天状态调整节奏，结束后记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 179,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0181",
+        "title": "阶段成果与下周计划",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-16",
+        "time": "09:30",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 180,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0182",
+        "title": "学习笔记与周复盘",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-16",
+        "time": "14:00",
+        "duration": 90,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0",
+          "demo-label-4"
+        ],
+        "position": 181,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0183",
+        "title": "通讯：如何整理灵感收集箱",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-07-03",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 182,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-07-03",
+        "completedOn": "2026-07-03",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0184",
+        "title": "通讯：让任务拆分更具体",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-07-10",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 183,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-07-10",
+        "completedOn": "2026-07-10",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0185",
+        "title": "通讯：一周设计过程回顾",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-07-17",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 184,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-07-17",
+        "completedOn": "2026-07-17",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0186",
+        "title": "通讯：从阅读到行动的笔记法",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-07-24",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 185,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-07-24",
+        "completedOn": "2026-07-24",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0187",
+        "title": "通讯：减少界面里的视觉噪音",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-07-31",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 186,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-07-31",
+        "completedOn": "2026-07-31",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0188",
+        "title": "通讯：一次城市漫步的观察",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-07",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 187,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-07",
+        "completedOn": "2026-08-07",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0189",
+        "title": "通讯：如何整理灵感收集箱",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-14",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 188,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-14",
+        "completedOn": "2026-08-14",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0190",
+        "title": "通讯：让任务拆分更具体",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-21",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 189,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-21",
+        "completedOn": "2026-08-21",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0191",
+        "title": "通讯：一周设计过程回顾",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-28",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 190,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-28",
+        "completedOn": "2026-08-28",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0192",
+        "title": "通讯：从阅读到行动的笔记法",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-04",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 191,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-04",
+        "completedOn": "2026-09-04",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0193",
+        "title": "通讯：减少界面里的视觉噪音",
+        "project": "demo-project-3",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-09-11",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 192,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-11",
+        "completedOn": "2026-09-11",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0194",
+        "title": "通讯：一次城市漫步的观察",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-18",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 193,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0195",
+        "title": "通讯：如何整理灵感收集箱",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-25",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 194,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0196",
+        "title": "通讯：让任务拆分更具体",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-02",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 195,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0197",
+        "title": "通讯：一周设计过程回顾",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-09",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 196,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0198",
+        "title": "通讯：从阅读到行动的笔记法",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-16",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 197,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0199",
+        "title": "通讯：减少界面里的视觉噪音",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-23",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 198,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0200",
+        "title": "通讯：一次城市漫步的观察",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-30",
+        "time": "11:00",
+        "duration": 60,
+        "notes": "整理提纲、完成校对，保存本期成稿。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 199,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0201",
+        "title": "每日阅读与知识卡片",
+        "project": "demo-project-4",
+        "status": "doing",
+        "priority": "medium",
+        "date": "2026-07-01",
+        "time": "",
+        "duration": 177120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 200,
+        "tracking": true,
+        "baselineStart": "2026-07-01",
+        "baselineEnd": "2026-10-31",
+        "startedOn": "2026-07-01",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-07-01",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-07-02",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-07-03",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-04",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-07-05",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-07-06",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-08",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-07-09",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-10",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-07-11",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-07-12",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-13",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-07-15",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-16",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-07-17",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-07-18",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-19",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-07-20",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-07-22",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-07-23",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-07-24",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-25",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-07-26",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-07-27",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-29",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-07-30",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-31",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-01",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-08-02",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-03",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-05",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-06",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-07",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-08-08",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-09",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-10",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-08-12",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-13",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-08-14",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-15",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-16",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-08-17",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-19",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-08-20",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-21",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-22",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-08-23",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-24",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-26",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-27",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-28",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-08-29",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-30",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-08-31",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-09-02",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-09-03",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-09-04",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-09-05",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-09-06",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-09-07",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-09-09",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-09-10",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-09-11",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 35
+          },
+          {
+            "date": "2026-09-12",
+            "note": "完成阅读，整理一张观点卡片。",
+            "minutes": 40
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0202",
+        "title": "每周三次运动记录",
+        "project": "demo-project-6",
+        "status": "doing",
+        "priority": "medium",
+        "date": "2026-07-01",
+        "time": "",
+        "duration": 177120,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "position": 201,
+        "tracking": true,
+        "baselineStart": "2026-07-01",
+        "baselineEnd": "2026-10-31",
+        "startedOn": "2026-07-01",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-07-02",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-07-04",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-07",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-09",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-07-11",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-07-14",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-07-16",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-18",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-07-21",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-07-23",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-07-25",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-28",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-07-30",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-08-01",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-08-04",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-08-06",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-08",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-08-11",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-08-13",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-08-15",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-18",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-20",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-08-22",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-08-25",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-08-27",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-08-29",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-09-01",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-09-03",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-09-05",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-09-08",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 45
+          },
+          {
+            "date": "2026-09-10",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-09-12",
+            "note": "完成训练，记录节奏与感受。",
+            "minutes": 50
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0203",
+        "title": "每日交互练习记录",
+        "project": "demo-project-5",
+        "status": "doing",
+        "priority": "medium",
+        "date": "2026-08-17",
+        "time": "",
+        "duration": 109440,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-3"
+        ],
+        "position": 202,
+        "tracking": true,
+        "baselineStart": "2026-08-17",
+        "baselineEnd": "2026-10-31",
+        "startedOn": "2026-08-17",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-08-17",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-08-18",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-08-19",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-20",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-08-21",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-08-23",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-08-24",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-08-25",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-26",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-08-27",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-08-28",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 60
+          },
+          {
+            "date": "2026-08-30",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-08-31",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-01",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-09-02",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-09-03",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-04",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-09-06",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-07",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-09-08",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 55
+          },
+          {
+            "date": "2026-09-09",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 60
+          },
+          {
+            "date": "2026-09-10",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 50
+          },
+          {
+            "date": "2026-09-11",
+            "note": "完成一个小交互，记录实现要点。",
+            "minutes": 55
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0204",
+        "title": "官网交付清单补充",
+        "project": "demo-project-0",
+        "status": "doing",
+        "priority": "high",
+        "date": "2026-09-08",
+        "time": "",
+        "duration": 7200,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-0"
+        ],
+        "position": 203,
+        "tracking": true,
+        "baselineStart": "2026-09-08",
+        "baselineEnd": "2026-09-10",
+        "startedOn": "2026-09-08",
+        "completedOn": "",
+        "rolledDays": 2,
+        "checkins": [
+          {
+            "date": "2026-09-08",
+            "note": "核对页面交付项，补充遗漏说明。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-09-09",
+            "note": "核对页面交付项，补充遗漏说明。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-09-10",
+            "note": "核对页面交付项，补充遗漏说明。",
+            "minutes": 40
+          },
+          {
+            "date": "2026-09-11",
+            "note": "核对页面交付项，补充遗漏说明。",
+            "minutes": 40
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0205",
+        "title": "发布文案最后一轮校对",
+        "project": "demo-project-1",
+        "status": "doing",
+        "priority": "high",
+        "date": "2026-09-10",
+        "time": "",
+        "duration": 4320,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "position": 204,
+        "tracking": true,
+        "baselineStart": "2026-09-10",
+        "baselineEnd": "2026-09-12",
+        "startedOn": "2026-09-10",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": [
+          {
+            "date": "2026-09-10",
+            "note": "完成标题和首屏校对。",
+            "minutes": 30
+          }
+        ]
+      },
+      {
+        "id": "demo-task-0206",
+        "title": "产品演示流程彩排",
+        "project": "demo-project-0",
+        "status": "done",
+        "priority": "high",
+        "date": "2026-09-12",
+        "time": "10:00",
+        "duration": 45,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 205,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-09-12",
+        "completedOn": "2026-09-12",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0207",
+        "title": "收集首轮演示反馈",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-12",
+        "time": "11:00",
+        "duration": 30,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1"
+        ],
+        "position": 206,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0208",
+        "title": "作品集首页方案评审",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-12",
+        "time": "16:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-1",
+          "demo-label-2"
+        ],
+        "position": 207,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0209",
+        "title": "出发与抵达杭州",
+        "project": "demo-project-8",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-18",
+        "time": "09:00",
+        "duration": 120,
+        "notes": "虚构演示行程；用于展示按时间安排的日程。",
+        "tags": [
+          "demo-label-8"
+        ],
+        "position": 208,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0210",
+        "title": "入住与午间休息",
+        "project": "demo-project-8",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-18",
+        "time": "12:00",
+        "duration": 90,
+        "notes": "虚构演示行程；用于展示按时间安排的日程。",
+        "tags": [
+          "demo-label-8"
+        ],
+        "position": 209,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0211",
+        "title": "西湖傍晚漫步",
+        "project": "demo-project-8",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-18",
+        "time": "17:00",
+        "duration": 120,
+        "notes": "虚构演示行程；用于展示按时间安排的日程。",
+        "tags": [
+          "demo-label-8"
+        ],
+        "position": 210,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0212",
+        "title": "美术馆参观与速写",
+        "project": "demo-project-8",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-19",
+        "time": "10:00",
+        "duration": 150,
+        "notes": "虚构演示行程；用于展示按时间安排的日程。",
+        "tags": [
+          "demo-label-8"
+        ],
+        "position": 211,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0213",
+        "title": "街区咖啡与书店探索",
+        "project": "demo-project-8",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-19",
+        "time": "15:00",
+        "duration": 120,
+        "notes": "虚构演示行程；用于展示按时间安排的日程。",
+        "tags": [
+          "demo-label-8"
+        ],
+        "position": 212,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0214",
+        "title": "整理照片与旅行笔记",
+        "project": "demo-project-8",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-20",
+        "time": "09:30",
+        "duration": 60,
+        "notes": "虚构演示行程；用于展示按时间安排的日程。",
+        "tags": [
+          "demo-label-8"
+        ],
+        "position": 213,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0215",
+        "title": "返程",
+        "project": "demo-project-8",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-20",
+        "time": "15:00",
+        "duration": 120,
+        "notes": "虚构演示行程；用于展示按时间安排的日程。",
+        "tags": [
+          "demo-label-8"
+        ],
+        "position": 214,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0216",
+        "title": "官网第一版上线",
+        "project": "demo-project-0",
+        "status": "todo",
+        "priority": "high",
+        "date": "2026-09-30",
+        "time": "",
+        "duration": 1440,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-9"
+        ],
+        "position": 215,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0217",
+        "title": "秋季品牌正式发布",
+        "project": "demo-project-1",
+        "status": "todo",
+        "priority": "high",
+        "date": "2026-10-09",
+        "time": "",
+        "duration": 1440,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-9"
+        ],
+        "position": 216,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0218",
+        "title": "作品集公开版完成",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "high",
+        "date": "2026-10-09",
+        "time": "",
+        "duration": 1440,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-9"
+        ],
+        "position": 217,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0219",
+        "title": "交互组件练习结项",
+        "project": "demo-project-5",
+        "status": "todo",
+        "priority": "high",
+        "date": "2026-10-16",
+        "time": "",
+        "duration": 1440,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-9"
+        ],
+        "position": 218,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0220",
+        "title": "4月回顾与下月计划",
+        "project": "demo-project-7",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-04-28",
+        "time": "19:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-10"
+        ],
+        "position": 219,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-04-28",
+        "completedOn": "2026-04-28",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0221",
+        "title": "5月回顾与下月计划",
+        "project": "demo-project-7",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-05-28",
+        "time": "19:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-10"
+        ],
+        "position": 220,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-05-28",
+        "completedOn": "2026-05-28",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0222",
+        "title": "6月回顾与下月计划",
+        "project": "demo-project-7",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-06-28",
+        "time": "19:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-10"
+        ],
+        "position": 221,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-06-28",
+        "completedOn": "2026-06-28",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0223",
+        "title": "7月回顾与下月计划",
+        "project": "demo-project-7",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-07-28",
+        "time": "19:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-10"
+        ],
+        "position": 222,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-07-28",
+        "completedOn": "2026-07-28",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0224",
+        "title": "8月回顾与下月计划",
+        "project": "demo-project-7",
+        "status": "done",
+        "priority": "medium",
+        "date": "2026-08-28",
+        "time": "19:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-10"
+        ],
+        "position": 223,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "2026-08-28",
+        "completedOn": "2026-08-28",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0225",
+        "title": "9月回顾与下月计划",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-09-28",
+        "time": "19:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-10"
+        ],
+        "position": 224,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0226",
+        "title": "10月回顾与下月计划",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-10-28",
+        "time": "19:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-10"
+        ],
+        "position": 225,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0227",
+        "title": "11月回顾与下月计划",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-11-28",
+        "time": "19:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-10"
+        ],
+        "position": 226,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0228",
+        "title": "12月回顾与下月计划",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "medium",
+        "date": "2026-12-28",
+        "time": "19:30",
+        "duration": 60,
+        "notes": "演示安排：完成后整理简短结果与下一步行动。",
+        "tags": [
+          "demo-label-10"
+        ],
+        "position": 227,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0229",
+        "title": "尝试作品集深色主题",
+        "project": "demo-project-2",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-11",
+          "demo-label-2"
+        ],
+        "position": 228,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0230",
+        "title": "收集下一期通讯选题",
+        "project": "demo-project-3",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-11",
+          "demo-label-4"
+        ],
+        "position": 229,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0231",
+        "title": "研究图表键盘交互",
+        "project": "demo-project-5",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-3"
+        ],
+        "position": 230,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0232",
+        "title": "整理书架上的待读清单",
+        "project": "demo-project-4",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "position": 231,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0233",
+        "title": "制作旅行照片小册",
+        "project": "demo-project-8",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-8"
+        ],
+        "position": 232,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0234",
+        "title": "补充周末展览候选",
+        "project": "demo-project-9",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-11"
+        ],
+        "position": 233,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0235",
+        "title": "为工作台挑选收纳方案",
+        "project": "demo-project-7",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 234,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0236",
+        "title": "试做一套专注计时器",
+        "project": "",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-11"
+        ],
+        "position": 235,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0237",
+        "title": "记录偶然想到的产品点子",
+        "project": "",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-11"
+        ],
+        "position": 236,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0238",
+        "title": "整理待回复事项",
+        "project": "",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 237,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0239",
+        "title": "学习新的手冲咖啡配方",
+        "project": "",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 238,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      },
+      {
+        "id": "demo-task-0240",
+        "title": "整理旧设备与线材",
+        "project": "",
+        "status": "todo",
+        "priority": "low",
+        "date": "",
+        "time": "",
+        "duration": 60,
+        "notes": "暂未安排日期，可在演示中拖入日历或设置优先级。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "position": 239,
+        "tracking": false,
+        "baselineStart": "",
+        "baselineEnd": "",
+        "startedOn": "",
+        "completedOn": "",
+        "rolledDays": 0,
+        "checkins": []
+      }
+    ],
+    "projects": [
+      {
+        "id": "demo-project-0",
+        "title": "产品官网改版",
+        "folder": "demo-folder-0",
+        "color": "0",
+        "start": "2026-08-17",
+        "end": "2026-09-30",
+        "description": "从用户访谈到设计交付，完成一套更清晰的产品官网。",
+        "tags": [
+          "demo-label-2",
+          "demo-label-3"
+        ],
+        "scheduleMode": "manual",
+        "position": 0
+      },
+      {
+        "id": "demo-project-1",
+        "title": "秋季品牌发布",
+        "folder": "demo-folder-0",
+        "color": "#c66a72",
+        "start": "2026-09-01",
+        "end": "2026-10-16",
+        "description": "准备秋季发布活动的视觉、内容与上线物料。",
+        "tags": [
+          "demo-label-2",
+          "demo-label-4"
+        ],
+        "scheduleMode": "manual",
+        "position": 1
+      },
+      {
+        "id": "demo-project-2",
+        "title": "个人作品集",
+        "folder": "demo-folder-0",
+        "color": "1",
+        "start": "2026-08-24",
+        "end": "2026-10-09",
+        "description": "整理三个代表案例，完善个人介绍与案例叙事。",
+        "tags": [
+          "demo-label-2",
+          "demo-label-4"
+        ],
+        "scheduleMode": "auto",
+        "position": 2
+      },
+      {
+        "id": "demo-project-3",
+        "title": "每周创作通讯",
+        "folder": "demo-folder-0",
+        "color": "#c88455",
+        "start": "2026-07-06",
+        "end": "2026-10-30",
+        "description": "每周完成一篇创作与效率主题通讯。",
+        "tags": [
+          "demo-label-4"
+        ],
+        "scheduleMode": "auto",
+        "position": 3
+      },
+      {
+        "id": "demo-project-4",
+        "title": "阅读与知识笔记",
+        "folder": "demo-folder-1",
+        "color": "#af76a1",
+        "start": "2026-07-01",
+        "end": "2026-10-31",
+        "description": "保持阅读习惯，并将观点整理成可复用的知识卡片。",
+        "tags": [
+          "demo-label-5"
+        ],
+        "scheduleMode": "auto",
+        "position": 4
+      },
+      {
+        "id": "demo-project-5",
+        "title": "前端交互练习",
+        "folder": "demo-folder-1",
+        "color": "#5689bb",
+        "start": "2026-08-17",
+        "end": "2026-10-16",
+        "description": "通过小项目练习组件、交互与可访问性。",
+        "tags": [
+          "demo-label-3"
+        ],
+        "scheduleMode": "auto",
+        "position": 5
+      },
+      {
+        "id": "demo-project-6",
+        "title": "秋季跑步计划",
+        "folder": "demo-folder-2",
+        "color": "2",
+        "start": "2026-07-01",
+        "end": "2026-10-31",
+        "description": "逐步建立稳定运动节奏，记录训练感受。",
+        "tags": [
+          "demo-label-6"
+        ],
+        "scheduleMode": "auto",
+        "position": 6
+      },
+      {
+        "id": "demo-project-7",
+        "title": "生活整理计划",
+        "folder": "demo-folder-2",
+        "color": "#4d9e96",
+        "start": "2026-08-01",
+        "end": "2026-10-31",
+        "description": "定期整理居住空间、照片与个人资料。",
+        "tags": [
+          "demo-label-7"
+        ],
+        "scheduleMode": "auto",
+        "position": 7
+      },
+      {
+        "id": "demo-project-8",
+        "title": "杭州周末旅行",
+        "folder": "demo-folder-3",
+        "color": "#b09b37",
+        "start": "2026-09-18",
+        "end": "2026-09-20",
+        "description": "三天两夜的城市漫步与展览体验。所有安排均为虚构演示。",
+        "tags": [
+          "demo-label-8"
+        ],
+        "scheduleMode": "manual",
+        "position": 8
+      },
+      {
+        "id": "demo-project-9",
+        "title": "城市展览地图",
+        "folder": "demo-folder-3",
+        "color": "#7864b2",
+        "start": "2026-09-01",
+        "end": "2026-10-31",
+        "description": "收集展览灵感，规划周末城市探索。",
+        "tags": [
+          "demo-label-8",
+          "demo-label-11"
+        ],
+        "scheduleMode": "auto",
+        "position": 9
+      }
+    ],
+    "folders": [
+      {
+        "id": "demo-folder-0",
+        "title": "工作与创作",
+        "position": 0
+      },
+      {
+        "id": "demo-folder-1",
+        "title": "学习与成长",
+        "position": 1
+      },
+      {
+        "id": "demo-folder-2",
+        "title": "健康与生活",
+        "position": 2
+      },
+      {
+        "id": "demo-folder-3",
+        "title": "出行与体验",
+        "position": 3
+      }
+    ],
+    "labels": [
+      {
+        "id": "demo-label-0",
+        "title": "深度工作",
+        "color": "0"
+      },
+      {
+        "id": "demo-label-1",
+        "title": "会议",
+        "color": "1"
+      },
+      {
+        "id": "demo-label-2",
+        "title": "设计",
+        "color": "2"
+      },
+      {
+        "id": "demo-label-3",
+        "title": "开发",
+        "color": "#c66a72"
+      },
+      {
+        "id": "demo-label-4",
+        "title": "写作",
+        "color": "#c88455"
+      },
+      {
+        "id": "demo-label-5",
+        "title": "阅读",
+        "color": "#4d9e96"
+      },
+      {
+        "id": "demo-label-6",
+        "title": "运动",
+        "color": "#7864b2"
+      },
+      {
+        "id": "demo-label-7",
+        "title": "生活",
+        "color": "#af76a1"
+      },
+      {
+        "id": "demo-label-8",
+        "title": "出行",
+        "color": "#5689bb"
+      },
+      {
+        "id": "demo-label-9",
+        "title": "里程碑",
+        "color": "#b09b37"
+      },
+      {
+        "id": "demo-label-10",
+        "title": "复盘",
+        "color": "3"
+      },
+      {
+        "id": "demo-label-11",
+        "title": "灵感",
+        "color": "#857162"
+      }
+    ],
+    "preferences": {
+      "name": "DayFrame 演示空间",
+      "navOrder": [
+        "today",
+        "all",
+        "projects",
+        "inbox"
+      ],
+      "density": "comfortable",
+      "startView": "today",
+      "appearance": {
+        "sidebarVisible": true,
+        "showProjects": true,
+        "showTags": true,
+        "showSearch": true,
+        "showProfile": true,
+        "hiddenNav": [],
+        "sidebarWidth": 256,
+        "motion": false
+      },
+      "homeLayout": {
+        "sidebarWidth": 256,
+        "cards": [
+          {
+            "id": "today",
+            "title": "今日重点",
+            "width": "half",
+            "height": 340,
+            "collapsed": false
+          },
+          {
+            "id": "tracking",
+            "title": "任务追踪",
+            "width": "half",
+            "height": 340,
+            "collapsed": false
+          },
+          {
+            "id": "projects",
+            "title": "项目进度",
+            "width": "half",
+            "height": 340,
+            "collapsed": false
+          },
+          {
+            "id": "inbox",
+            "title": "收集箱",
+            "width": "half",
+            "height": 340,
+            "collapsed": false
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+ALTER TABLE `tasks` ADD `checkins` text DEFAULT '{}' NOT NULL;
