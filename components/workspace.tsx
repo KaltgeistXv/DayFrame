@@ -1216,6 +1216,8 @@ function Workspace({ initialDate }: { initialDate: string }) {
         onDragEndCapture={() => {
           setDragId('');
         }}
+        // A synchronous drop can remove the source before dragend bubbles.
+        onDropCapture={() => setDragId('')}
       >
         <Sidebar
           ref={isMobile ? undefined : sidebarNode}
